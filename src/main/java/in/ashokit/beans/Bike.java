@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 public class Bike implements ApplicationRunner {
 
 	public Bike() {
-		System.out.println("Bike started");
+		System.out.println("Bike is started");
 	}
 	
 	@Override
