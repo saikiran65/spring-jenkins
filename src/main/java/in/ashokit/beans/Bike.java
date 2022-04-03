@@ -13,7 +13,7 @@ public class Bike implements ApplicationRunner {
 	
 	@Override
 	public void run(ApplicationArguments args) throws Exception {
-		System.out.println("bike is on ride");
+		System.out.println("bike is on ride, its good");
 	}
 
 }
